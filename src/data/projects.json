@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CAMPUS TRADE",
+    "imageSrc": "projects/campusTrade2.png",
+    "description": "Website that facilitate buying and selling of products within Campus",
+    "skills": ["React JS", "Express", "Node","MongoDB" ,"JWT" ],
+    "demo": "https://campus-trade.onrender.com/",
+    "source": "https://github.com/UKS28/Campus-Trade"
+  },
+  {
+    "title": "TODO",
+    "imageSrc": "projects/todo.png",
+    "description": "Todo application where individuals can efficiently track tasks and manage their todos",
+    "skills": ["React js", "CSS", "Local Storage"],
+    "demo": "https://todo-e3q8.onrender.com/",
+    "source": "https://github.com/UKS28/TODO"
+  },
+  {
+    "title": "TIC TAC TOE",
+    "imageSrc": "projects/project.png",
+    "description": "Game project where two players take turns marking spaces in a 3x3 grid with markers ('X' or 'O') ",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://uks28.github.io/Tic-Tac-Toe/",
+    "source": "https://github.com/UKS28/Tic-Tac-Toe"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Technical Intern",
+    "organisation": "Bharti Airtel",
+    "startDate": "June, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on Employees details ", "designed an Automated Sytem" , "Worked on Python and Pandas "],
+    "imageSrc": "history/airtel.png"
+  },
+  {
+    "role": "Placement Cordinator",
+    "organisation": "NIT Jalandhar",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Contact Multiple Hrs to Visit our Campus", "Coordinated process of multiple companies "],
+    "imageSrc": "history/nit2.png"
+  }
+
+]
