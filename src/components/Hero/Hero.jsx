@@ -3,7 +3,6 @@ import React from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
-
 export const Hero = () => {
   
   return (
@@ -14,7 +13,7 @@ export const Hero = () => {
           I am a Final Year B.Tech Student in Information Technology from NIT Jalandhar.
           Currently , I'm looking for Full Time SDE Role.
         </p>
-        <a href="resume.pdf" download className={styles.contactBtn}>
+        <a href="/src/components/Hero/resume.pdf" download className={styles.contactBtn}>
           Download CV 
         </a>
       </div>
