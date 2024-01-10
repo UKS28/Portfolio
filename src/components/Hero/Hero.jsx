@@ -13,13 +13,10 @@ export const Hero = () => {
           I am a Final Year B.Tech Student in Information Technology from NIT Jalandhar.
           Currently , I'm looking for Full Time SDE Role.
         </p>
-        {/* <a href="./src/components/Hero/resume.pdf" download className={styles.contactBtn}>
-          Download CV 
-        </a> */}
-        <form method="get" action="./src/components/Hero/resume.pdf">
-            <button className={styles.contactBtn} type="submit">Download CV</button>
-        </form>
-
+        <a href="https://drive.google.com/drive/folders/1VWuhTEkmB4QjaWzC-5Ocp6e_60uOdOZy" target="_blank" rel="noopener noreferrer" className={styles.contactBtn}>
+          View CV 
+        </a>
+      
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
